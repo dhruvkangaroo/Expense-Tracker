@@ -6,7 +6,6 @@ This **Expense Tracker Website** is a simple and intuitive platform to manage yo
 ---
 
 ## Features  
-- **User Authentication**: Sign up, log in, and secure personal data.  
 - **Expense Management**: Add, edit, and delete expenses with category and amount.  
 - **Interactive Pie Charts**: Visualize spending distribution by categories.  
 - **Dashboard**: Get an overview of total expenses and category breakdown.  
